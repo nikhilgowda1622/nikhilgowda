@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.List;
 
+
 public class Checkboxvalidation {
     public static void main(String[] args) {
         checkboxValidations();
